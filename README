@@ -1,0 +1,23 @@
+Name: Talgat Iskindir
+ID: 20130831
+
+Programming assignment #3
+
+1. chmod u+x install.sh
+
+2. ./install.sh
+
+(I hope it is possible to compile with -std=gnu99 option on)
+
+3. When running the ./my_nids program, it is necessary to give permissions
+
+using sudo.
+
+4. In order to achieve a pleasant output, please specify the error stream file
+
+when running the my_nids program (e.g. ./my_nids some_rule_file 2> errors.txt)
+
+5. The program will find any suitable network adapter except lo to capture
+
+packets and will display the device name in the beginning of running.
+
